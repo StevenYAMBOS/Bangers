@@ -24,9 +24,10 @@ class TSizes {
   static const double buttonWidth = 120.0;
   static const double buttonBorderRadius = 15.0;
 
-  // Espace entre les sections
+  // Espaces
   static const double defaultSpace = 24.0;
   static const double spaceBetweenSections = 32.0;
+  static const double spaceBetweenItems = 32.0;
   static const double dividerHight = 1.0;
 
   // Indicateur de chargement
